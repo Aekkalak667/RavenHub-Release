@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "gameId": 10539411000,
   "payload": "payloads/leaf-collection.lua",
-  "sourceBytes": 1433969,
-  "minifiedBytes": 1380727,
-  "compressedBytes": 525616,
-  "payloadBytes": 705890,
-  "payloadSha256": "71a8ed08e329a5d54866cf0a1bba0fc50b835b78a80f07b8024e63cdaa9083b0",
+  "sourceBytes": 1438413,
+  "minifiedBytes": 1384014,
+  "compressedBytes": 527090,
+  "payloadBytes": 707851,
+  "payloadSha256": "8247688d64db83e8ebcfc7e16b3dd1c87af9e1e8f7af6a387a2db3614caf5e47",
   "windUI": {
     "version": "1.6.66",
     "commit": "d2c9bac5f96f997418d680d19cb759892542e492"
