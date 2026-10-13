@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "gameId": 10539411000,
+  "payload": "payloads/leaf-collection.lua",
+  "sourceBytes": 1433969,
+  "minifiedBytes": 1380727,
+  "compressedBytes": 525616,
+  "payloadBytes": 705890,
+  "payloadSha256": "71a8ed08e329a5d54866cf0a1bba0fc50b835b78a80f07b8024e63cdaa9083b0",
+  "windUI": {
+    "version": "1.6.66",
+    "commit": "d2c9bac5f96f997418d680d19cb759892542e492"
+  },
+  "protection": "Local-name obfuscation, LZ4 block packing, reversible XOR masking. Client-side source can be recovered."
+}
