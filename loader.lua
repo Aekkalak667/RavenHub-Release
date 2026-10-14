@@ -1,5 +1,6 @@
--- Raven Hub loader v1.0.1
-local urls={[10539411000]="https://raw.githubusercontent.com/Aekkalak667/RavenHub-Release/main/payloads/leaf-collection.lua"}
+-- Raven Hub loader v1.1.0
+local urls={[10539411000]="https://raw.githubusercontent.com/Aekkalak667/RavenHub-Release/main/payloads/leaf-collection.lua",
+[1281592938]="https://raw.githubusercontent.com/Aekkalak667/RavenHub-Release/main/payloads/entrenched.lua"}
 local url=urls[game.GameId]
 assert(url,"Raven Hub: this game is not supported by this release")
 local ok,body=pcall(function()return game:HttpGet(url)end)
